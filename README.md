@@ -1,4 +1,4 @@
-# Digital Product Analytics Expert
+# Digital Product Analyst
 
 #### Technical Skills: SQL, Python, Snowflake, Adobe Analytic 
 
