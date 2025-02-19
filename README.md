@@ -18,8 +18,7 @@
 ‭ strategies‬
 
 ‭
-● ‬‭ Extensive experience in designing and developing analytics solutions utilizing leading technologies‬
-
+● ‬‭ Extensive experience in designing and developing analytics solutions utilizing modern data transformation and visualization products
 ‭
 
 ## Work Experience
