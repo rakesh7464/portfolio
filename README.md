@@ -8,7 +8,6 @@
 ## Professional Summary:
  Results oriented data enthusiast‬‭ with deep business acumen in Digital‬
 ‭ Products, Retail & eCommerce, and Finance coupled with advanced technical and analytical skills‬
-
 ‭
 ●  Track record of helping clients evaluate, select and implement data driven strategies to solve complex‬
 ‭ business challenges while influencing cross functional partners‬
