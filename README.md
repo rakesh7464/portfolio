@@ -21,7 +21,7 @@
 ‭
 
 ## Work Experience
-**Digital Product Analytics Engineer @ Life Time Inc.  (_June 2022 - _February 2025)**
+**Digital Product Analytics Engineer @ Life Time Inc.  (_June 2022 - _February 2025_)**
 -  Developed enterprise analytical datasets that provide trends and usage on digital active users and their‬
 ‭ behavior shifts over time. Delivered data insights to more precisely inform feature investment in the mobile‬
 ‭ app and web‬
