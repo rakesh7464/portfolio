@@ -8,7 +8,6 @@
 ---
 
 ## 🎯 **Technical Skills**
-```yaml
 Cloud & Data            : [Snowflake, Google Cloud (BigQuery, Hadoop)]
 Programming             : [SQL (Advanced), Python (Snowpark, Pandas, Numpy, Seaborn, Altair)]
 BI & Visualization      : [DOMO, Tableau, Looker, Streamlit, Adobe Analytics]
