@@ -17,17 +17,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 Cloud & Data            : Snowflake, Google Cloud BigQuery
-
 Programming             : SQL-(Advanced), Python (Snowpark, Pandas, Numpy, Streamlit)
-
 BI & Visualization      : DOMO, Tableau, Looker, Streamlit, Adobe Analytics
-
 Marketing Analytics     : Google Analytics 360, GA4, Adobe Analytics
-
 Version Control & Tools : GitHub, VSCode
-
 AI & Data Modeling      : Snowflake Cortex, Logistic Regression, Topic Modeling
-
 CRM & Marketing         : Salesforce Marketing Cloud
 
 
@@ -42,11 +36,11 @@ CRM & Marketing         : Salesforce Marketing Cloud
 ### **Digital Product Analytics Engineer @ Life Time Inc.** (_June 2022 - Present_)
 - 📊 Developed **analytical datasets** providing insights on digital active users & behavior trends.
 - 🔍 Built **member segmentation models** that enhanced personalized feature offerings.
-- 📈 Engineered **Adobe Analytics clickstream data pipelines** via Snowflake and DOMO.
+- 📈 **Engineered** Adobe Analytics clickstream data pipelines via Snowflake and DOMO.
 
 ### **Sr. BI Analyst @ Be The Match (NMDP)** (_Dec 2020 - June 2022_)
-- 🔄 Designed **end-to-end data pipelines** for marketing campaign events.
-- 📊 Developed **Looker dashboards** enabling data-driven decision-making.
+- 🔄 **Designed end-to-end data pipelines** for marketing campaign events.
+- 📊 **Developed Looker dashboards** enabling data-driven decision-making.
 
 ### **Lead Data Analyst @ Huntington Bank** (_Aug 2019 - Jan 2022_)
 - 🤖 Developed **AI-based fraud detection models**, increasing fraud detection by **25%**.
