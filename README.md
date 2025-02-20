@@ -1,4 +1,4 @@
-# 🚀 Digital Product Analytics Engineer
+# 🚀 Digital Product Analyst
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 🔹 **Data-driven strategist** with deep business acumen in **Digital Products, eCommerce, and Finance**  
@@ -8,6 +8,13 @@
 ---
 
 ## 🎯 **Technical Skills**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![DOMO](https://img.shields.io/badge/DOMO-0085CA?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 Cloud & Data            : Snowflake, Google Cloud BigQuery
 
 Programming             : SQL-(Advanced), Python (Snowpark, Pandas, Numpy, Streamlit)
@@ -21,16 +28,6 @@ Version Control & Tools : GitHub, VSCode
 AI & Data Modeling      : Snowflake Cortex, Logistic Regression, Topic Modeling
 
 CRM & Marketing         : Salesforce Marketing Cloud
-
-# 🚀 Digital Product Analytics Engineer
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![DOMO](https://img.shields.io/badge/DOMO-0085CA?style=flat)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
 ## 💼 **Professional Summary**
