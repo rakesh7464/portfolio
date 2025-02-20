@@ -15,6 +15,7 @@
 ![DOMO](https://img.shields.io/badge/DOMO-0085CA?style=flat)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 Cloud & Data            : Snowflake, Google Cloud BigQuery
 
 Programming             : SQL-(Advanced), Python (Snowpark, Pandas, Numpy, Streamlit)
