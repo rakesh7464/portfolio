@@ -9,11 +9,17 @@
 
 ## 🎯 **Technical Skills**
 Cloud & Data            : Snowflake, Google Cloud BigQuery
-Programming             : SQL-(Advanced), Python (Snowpark, Pandas, Numpy, Streamlit )
+
+Programming             : SQL-(Advanced), Python (Snowpark, Pandas, Numpy, Streamlit)
+
 BI & Visualization      : DOMO, Tableau, Looker, Streamlit, Adobe Analytics
+
 Marketing Analytics     : Google Analytics 360, GA4, Adobe Analytics
+
 Version Control & Tools : GitHub, VSCode
+
 AI & Data Modeling      : Snowflake Cortex, Logistic Regression, Topic Modeling
+
 CRM & Marketing         : Salesforce Marketing Cloud
 
 # 🚀 Digital Product Analytics Engineer
