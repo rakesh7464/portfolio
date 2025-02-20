@@ -1,6 +1,6 @@
 # Digital Product Analyst
 
-#### Technical Skills: SQL, Python, Snowflake, Adobe Analytic 
+#### Technical Skills: SQL, Python, Snowflake, Google Big Query, Adobe Analytics, Google Analytics, 
 
 ## Education 			        		
 - B.S., Applied Economics | The University of Minnesota at TC (_Dec 2005_)
