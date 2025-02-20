@@ -8,8 +8,8 @@
 ---
 
 ## 🎯 **Technical Skills**
-Cloud & Data            : [Snowflake, Google Cloud (BigQuery, Hadoop)]
-Programming             : [SQL (Advanced), Python (Snowpark, Pandas, Numpy, Seaborn, Altair)]
+Cloud & Data            : Snowflake, Google Cloud BigQuery
+Programming             : SQL (Advanced), Python (Snowpark, Pandas, Numpy, Seaborn, Altair)
 BI & Visualization      : [DOMO, Tableau, Looker, Streamlit, Adobe Analytics]
 Marketing Analytics     : [Google Analytics 360, GA4, Adobe Analytics]
 Version Control & Tools : [Git, GitHub, VSCode]
