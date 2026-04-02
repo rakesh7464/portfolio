@@ -6,7 +6,7 @@ Principal Analytics Engineer focused on dbt, Snowflake, and AI-assisted developm
 
 | Project | Description |
 |---------|-------------|
-| [metric-drift](https://github.com/rakesh7464/metric-drift) | dbt project for metric drift detection using z-score analysis — Snowflake, synthetic data |
+| [metric-drift](https://github.com/rakesh7464/metric-drift) | dbt project for metric drift detection using z-score analysis, with AI-generated insights powered by Snowflake Cortex |
 
 ## Tech Stack
 
